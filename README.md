@@ -29,7 +29,7 @@ exec xfce
 
 - 4_ reboot the system.
 
-# fix with script (easy way)
+# fix with script:
 This Bash script allows you to easily switch the default desktop environment on a Linux system using `systemctl`. It prompts the user to choose from a list of predefined desktop environments or enter a custom one. The script then sets the selected desktop as the default for the system.
 
 ## installation & usage:
