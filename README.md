@@ -1,4 +1,4 @@
-When other desktops are installed next to the kde desktop and you want to log out from the kde desktop and go to another desktop, the breeze cruser (kde default cruser) will appear on your desktop and it is possible that it is really Get on someone's nerves.
+## When other desktops are installed next to the kde desktop and you want to log out from the kde desktop and go to another desktop, the breeze cruser (kde default cruser) will appear on your desktop and it is possible really Get on someone's nerves.
 
 ## The reason for the bug:
 
