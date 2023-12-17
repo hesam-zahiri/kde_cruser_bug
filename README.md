@@ -15,9 +15,9 @@ sudo systemctl set-default (desktop name)
 sudo systemctl set-default xfce
 ```
 ## Here is another way to fix this bug
-- 1_Create a new text file named `.xinitrc` in the `~/.config` directory.
+- 1. Create a new text file named `.xinitrc` in the `~/.config` directory.
 
-- 2_Enter the following code in the `.xinitrc` file:
+- 2. Enter the following code in the `.xinitrc` file:
 ```
 exec (desktop name)
 ```
@@ -25,9 +25,9 @@ exec (desktop name)
 ```
 exec xfce
 ```
-- 3_Save the `.xinitrc` file.
+- 3. Save the `.xinitrc` file.
 
-- 4_Restart the system.
+- 4. reboot the system.
 
 # fix with script (easy way)
 This Bash script allows you to easily switch the default desktop environment on a Linux system using `systemctl`. It prompts the user to choose from a list of predefined desktop environments or enter a custom one. The script then sets the selected desktop as the default for the system.
